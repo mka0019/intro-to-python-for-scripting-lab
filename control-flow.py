@@ -113,7 +113,7 @@ def calculate_dog_years():
         print(f"Your dog's age in dog years is {dog_years}.")
 
 # Call the function
-# calculate_dog_years()
+calculate_dog_years()
 
 # Problem 4: Weather advice
 #
